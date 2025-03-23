@@ -14,5 +14,5 @@ Topics Covered:
 How to Use:
 1. Browse through the folders to find topic-wise code.
 2. Modify and experiment with the code for better understanding.
-🚀 Keep learning and improving!
+🚀 Keep learning and improving! <br>
 Author :- Ishan
