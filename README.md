@@ -12,7 +12,7 @@ Topics Covered:
 ✅ Exception Handling
 ✅ Libraries & Frameworks (as learned) <br>
 How to Use:
-1.  Browse through the folders to find topic-wise code.
-2.  Modify and experiment with the code for better understanding.
+1. Browse through the folders to find topic-wise code.
+2. Modify and experiment with the code for better understanding.
 🚀 Keep learning and improving!
 Author :- Ishan
