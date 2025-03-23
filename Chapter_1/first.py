@@ -1,0 +1,1 @@
+print("Hello World") #Basic Print Command 
